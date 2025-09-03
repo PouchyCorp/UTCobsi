@@ -1,0 +1,139 @@
+IS00 – Ingénérie Soutenable
+
+  
+
+Si on approfondie → disponibilité de prendre une mineur SISTER ou un label Ingénerie Soutenable sur le diplôme
+
+  
+
+MOOC → cours en ligne au cours ud semestre
+
+  
+
+Entre deux amphis → genre de TD en petit groupe animés par des étudiants on aura les dates la semaine pro
+
+  
+
+P1 Comprendre la crise écologique
+
+P2 Comprendre les liens entre notre modele socio-economique et la crise ecologique
+
+  
+
+Faire en amont les questions préparatoires avant les regulations (TD)
+
+  
+
+  
+
+R (A ou B) 1 ou 2 M ou J 1 à 14
+
+= Regulation Semaine A ou B dans le groupe C1 ou C2 avec un animateur de matricule M ou J avecc un numero 1 à 14
+
+  
+
+19 decembre : date limite pour le MOOC
+
+  
+
+semaine pro Module 1 : Don’t Look Up : de l’individu à la société
+
+Module 2 : L’entreprise, l’industrie et l’ingénieur
+
+Module 3 : Penser la question des ressources
+
+Module 4 : TRES IMPORTANT approche systemique de l’environnement
+
+  
+
+Eval = Controle Continu + Exam Final
+
+Eval > 10/20 = réussite
+
+  
+
+Controle Continu = Regulations, MOOC, exams
+
+  
+
+PAS DE MAIL AU ENSEIGNANTS
+
+sauf cas personnel et à l’addresse [respis00@utc.fr](mailto:respis00@utc.fr)
+
+  
+
+Mattermost = Chat instantané pour l’UV
+
+Lien sur Moodle
+
+  
+
+  
+
+  
+
+GIEC = Meta Analyse de donnée scientifique et font des rapports
+
+On va surtout réfléchir au problème et pas trop au solutions
+
+  
+
+Parfois, les solutions créent des nouveau problemes → exemple des carpes argentées à Chicago et le canal Chicago Sanitary and Ship Canal
+
+> Il faut réfléchir au conséquences des « solutions »
+
+  
+
+Les solutions sont de differentes natures :
+
+> adaptation (éviter la maladaptation = essayer de palier un effet du problème, sans regler le probleme voir de l’empirer, exemple : climatisation)
+
+> atténuation → à revoir
+
+  
+
+Actuellement, un francais moyens émets 11T de Co2 par an.
+
+L’objectif serait 2T par an et par personne.
+
+  
+
+ADEME = Agence de l’Environnement et de la maitrise de l’énergie
+
+> établissement public
+
+> Responsable de la Transition 2050 (rapport)
+
+> Cadre de reflexion de l’election présidentielle 2022
+
+> 2 ans de travail pour le rapport
+
+> proposer 4 scénarios pour atteindre la neutralité carbone de la France en 2050
+
+> Generation Frugale → limiter la consommation de maniere forcée, PAS de stockage de carbone artificielle (usine de captage de carbone)
+
+> Cooperation Territoriales
+
+> Technologie Vertes → Stockage artificiel de carbone en sous sol
+
+> Pari Réparateur → attendre que les technologie actuellement en recherche soient démocratisées
+
+> Pour tout les scenarios : Réduction de la consommation de viande
+
+  
+  
+
+TODO : faire des recherches sur les diff scenarios pour comprendre leur différences
+
+  
+  
+
+BREF :
+
+Ouvrir la reflexion
+
+Penser plus global
+
+Mais avec des développements locaux
+
+D’autres scénarios existent
