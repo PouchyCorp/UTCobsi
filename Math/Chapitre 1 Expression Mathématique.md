@@ -1,5 +1,7 @@
 [[MT02]]
 
+https://moodle.utc.fr/pluginfile.php/92447/mod_resource/content/9/MT02-ch1_ecran.pdf
+
 1 - Toute proposition a une valeur de vérité
 
 #exemple 

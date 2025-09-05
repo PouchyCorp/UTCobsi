@@ -1,5 +1,9 @@
 [[MT03]]
 
+https://moodle.utc.fr/pluginfile.php/377500/mod_resource/content/1/MT03_TD0.pdf
+
+
+Dérivation (pour les grands) : https://www.normalesup.org/~glafon/eiffel13/derivation.pdf
 # Polynômes
 
 Toute fonction polynomiale peut s'écrire sous la forme
