@@ -68,3 +68,18 @@ $$$$
 Q \nRightarrow P
 $$
 
+*Bon à partir de là j'ai la flemme de tout taper
+
+## Implication
+$$
+(P \implies Q) \leftrightarrow (\neg P\wedge Q)
+$$
+
+$$
+\neg(P\implies Q) \leftrightarrow (P \vee \neg Q)
+$$
+
+#demo
+
+En comparant les tableaux de vérités, on peut conclure que les deux propositions sont équivalentes
+Pour la deuxième, il suffit de distribuer le NON.
