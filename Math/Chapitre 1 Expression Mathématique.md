@@ -83,3 +83,73 @@ $$
 
 En comparant les tableaux de vérités, on peut conclure que les deux propositions sont équivalentes
 Pour la deuxième, il suffit de distribuer le NON.
+
+#correction
+Soit $f(R)\to R$
+Nier les propositions suivantes
+1) P1 "Le graphe de f coupe la droite d'équation y = x au moins en un point"
+2) P2 "f est la fonction nulle"
+
+Réponses :
+1) $\forall x \in R,f(x)\neq x$
+2) $\exists x \in R,x\neq 0$
+
+$$
+n^{2} pair \implies npair
+
+$$
+par l'absurde, on suppose que n^2 pair ET n impair :
+$$
+n^{2}=2k
+$$$$
+n = 2k' +1
+$$
+$$
+n^{2}+n=n(n+1) \implies pair
+$$
+$$
+\leftrightarrow 2(k + k') + 1 \implies impair??
+$$
+On vient de trouver une contradiction, donc la proposition est vraie
+
+On peut le faire plus facilement avec la contraposée (n impair) -> (n^2 impair)
+
+# Récurrence
+
+Si une proposition dépend de n entier naturel
+$$
+P(n), \forall n\geq n_{0}, n_{0}\in N
+$$ ... est vrai par récurrence
+
+1) initialisation
+	1) $P(n_{0})$ est vrai
+2) hérédité
+	1) $P(n)\implies P(n+1)$ est vrai
+3) conclure que $P(n), \forall n\in N$ est vrai
+
+Exemple:
+$\forall n \geq 1$
+$$
+\sum_{k=1}^{n}k = \frac{n(n+1)}{2}
+$$
+Init :
+P(1)
+$$
+\sum_{k=1}^{1}k = 1 
+$$
+... vrai
+
+Heredité :
+on suppose P(n), on montre que $P(n)\implies P(n+1)$
+
+$$
+\sum_{k=1}^{n+1} k = (\sum_{k=1}^{n} k) + (n+1)
+$$$$
+\implies \frac{n(n+1)}{2} +n+1
+$$$$
+\implies \frac{(n+1)(n+1)}{2} \leftrightarrow  \sum_{k=1}^{n+1} 
+$$
+L'hérédité est vérif
+
+Conclusion :
+Comme $P(1)$ vrai et $P(n)\implies P(n+1)$, alors $P(n)$ vrai $\forall n \in N*$
