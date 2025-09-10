@@ -1,5 +1,8 @@
 [[MT02]]
 
+#tags: #math #ensembles #logique #todo
+Voir aussi : [[Chapitre 1 Expression Mathématique]] | [[MT03]]
+
 ### Bases
 
 #definition 
@@ -46,11 +49,7 @@ $$
 #proposition$$
 (A = B) \leftrightarrow (A \subset B \wedge B \subset A)
 $$
-#todo 
-prouver que pour A et B dans E
-$$
-(A \subset B) \leftrightarrow  (\complement_{B} \subset \complement_{A} )
-$$ par double implication
+#todo : Prouver que pour A et B dans E, $(A \subset B) \leftrightarrow  (\complement_{B} \subset \complement_{A} )$ par double implication. Ajouter la démonstration détaillée ici ou dans [[MT02]].
 
 ### intersection
  #definition 
@@ -86,9 +85,9 @@ $$
 $$
 \complement_{A\cup B} = \complement_{A} \cap \complement_{B}
 $$
-#todo faire la démo des deux en utilisant les propriétés logiques de la conjonction et disjonction
+#todo : Faire la démonstration des lois de Morgan en utilisant les propriétés logiques de la conjonction et disjonction. Ajouter la preuve détaillée ici ou dans [[MT02]].
 $$
-\neg(x \in A \cap B) \leftrightarrow  \complement_{A \cap B}
+\neg(x \in A \cap B) \leftrightarrow  x \notin (A \cap B) \leftrightarrow (x \notin A) \vee (x \notin B)
 $$
 
 #propriété
@@ -96,7 +95,7 @@ soit A, B et C des ensembles
 $$
 A \cap (B \cup C) = (A \cap B) \cup (A \cap C)
 $$
-#todo faire la démo
+#todo : Faire la démonstration de la distributivité de l'intersection sur l'union. Ajouter la preuve ici ou dans [[MT02]].
 
 ### La fonction caractéristique / indicatrice
 #definition
@@ -117,9 +116,4 @@ $$
 $$
 (A = B) \leftrightarrow (\xi A = \xi B)
 $$ il faut montrer que $\forall x \in E, \xi A(x) = \xi B(x)$
-#todo revoir le reste des propositions dans le pdf
-faire l'application avec 
-$$
-(A \cap B) \cap C = A\cap(B\cap C)
-$$ montrer que $\xi(a\cap b)\cap C = \xi a\cap(b\cap c)$
-il faut juste distribuer en utlisant les propriétés de l'indicatif
+#todo : Revoir le reste des propositions dans [[MT02-ch1_ecran.pdf]]. Faire l'application avec $(A \cap B) \cap C = A\cap(B\cap C)$ et montrer que $\xi_{A\cap B \cap C} = \xi_{A} \cdot \xi_{B} \cdot \xi_{C}$ en utilisant les propriétés de l'indicatrice.

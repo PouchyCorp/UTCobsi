@@ -1,9 +1,14 @@
 [[LA14]] - C2
 ![[LA14-W2 Law and Church.pdf]]
 # the un-codified constitution
-- Magna Carta
-- Bill of Rights
-- #todo ellaborate on the two above terms
+
+[[LA14]] - C2
+![[LA14-W2 Law and Church.pdf]]
+# the un-codified constitution
+- Magna Carta [[England History.md]] : Première charte limitant le pouvoir royal, 1215, base du droit anglais.
+- Bill of Rights : Loi de 1689, fonde la monarchie parlementaire, droits du Parlement et libertés fondamentales.
+- #todo : Ajouter un résumé détaillé de chaque terme dans une note dédiée.
+#tags: #law #history #constitution #todo
 
 There is no fully **written** constitution, it is mostly oral / implied
 it is composed of:
@@ -24,6 +29,8 @@ it is composed of:
 - illegal to handle salmon in suspicious circumstances
 
 ## Common Law $\neq$ Civil Law
+
+Voir aussi : [[England History.md]]
 
 # The Monarchy
 Thrown : English Chair + Scottish Stone beneath it
@@ -53,9 +60,10 @@ Symbol of ***Unity, Stability, Nationality***
 Queen Elizabeth II -> very popular (80% + agree that she is doing a good job, even anti-monarchy people)
 
 We can imagine that she saved the monarchy after the big dramas in the 19~~ #todo when, what
+#todo : Préciser les événements majeurs ayant menacé la monarchie au 20e siècle (ex: abdication d'Edward VIII, mort de Diana, etc.)
 
 # monarchy, worth it ?
-#todo pros and cons
+#todo : Lister les avantages et inconvénients de la monarchie britannique.
 # The church of England
 - Democratic Instituion
 - Archbishop of [Canterbury] 

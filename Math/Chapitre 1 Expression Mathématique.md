@@ -1,5 +1,8 @@
 [[MT02]]
 
+#tags: #math #logique #proposition #todo
+Voir aussi : [[Ensembles]] | [[MT03]]
+
 [[MT02-ch1_ecran.pdf]]
 
 1 - Toute proposition a une valeur de vérité
