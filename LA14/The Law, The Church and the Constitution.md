@@ -28,6 +28,8 @@ Thrown : English Chair + Scottish Stone beneath it
 They need to be **Anglican**
 Governor of the Church of England
 Head of State
+
+Technically, the English State is not secular (officially anglican), but in practice, it is secular.
 ## elizabeth II
 ideal british monarch
 house of windsor
@@ -50,7 +52,25 @@ Queen Elizabeth II -> very popular (80% + agree that she is doing a good job, ev
 
 We can imagine that she saved the monarchy after the big dramas in the 19~~ #todo when, what
 
+# monarchy, worth it ?
+#todo pros and cons
+# The church of England
+- Democratic Instituion
+- Archbishop of [Canterbury] 
+	Only a spritual guide
+	Vacant position since January 2025
 
+- Mesures require parliamentary approval
 
+## tolerant
+- women can be priests 
+- abortions, homosexuality, divorce is tolerated
+- constitutional duty to look after everybody (no matter the religion)
+
+## questions
+Established in England, but its governor is the British head of state
+Other Protestants are not included in it (Church of Scotland)
+Friction in the doctrine between the different churches (LGBT, etc...)
+Exclusion of some people from its full rites (limited tolerance)
 
 

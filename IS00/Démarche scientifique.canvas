@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"1e5f6731ffe5e07e","type":"group","x":-300,"y":80,"width":800,"height":520,"label":"La démarche scientifique"},
+		{"id":"996774df32b9a6f1","type":"text","text":"Réfuter/confirmer cette hypothèse ","x":-20,"y":407,"width":262,"height":60},
+		{"id":"e92894ef28aa2a3a","type":"text","text":"Etablir une hypothèse","x":-200,"y":240,"width":250,"height":60},
+		{"id":"dca12bfa8de0c0fc","type":"text","text":"Tester cette hypothèse","x":200,"y":240,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"85dd33fa2bc96d4c","fromNode":"e92894ef28aa2a3a","fromSide":"right","toNode":"dca12bfa8de0c0fc","toSide":"left"},
+		{"id":"4e0ee7c33d427427","fromNode":"dca12bfa8de0c0fc","fromSide":"bottom","toNode":"996774df32b9a6f1","toSide":"right"},
+		{"id":"cb2108d6c5d0b17d","fromNode":"996774df32b9a6f1","fromSide":"left","toNode":"e92894ef28aa2a3a","toSide":"bottom"}
+	]
+}
