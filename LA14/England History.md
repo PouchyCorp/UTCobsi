@@ -1,3 +1,4 @@
+[[LA14]]
 - **Les emails en Anglais**
 - Un TD (pp. 10-14 ?)
 - Acheter le poly ! #todo
@@ -21,8 +22,9 @@ They left a huge legacy :
 - the Witan : they council the King and limit its power
 - The moot : same as the Witan but locally in villages
 - The frankpledge, each one of us need to enforce morality and the law
+ 
 
- The where 7 different kindoms -> no central power
+ Heptarchy :  7 different kindoms -> no central power
  A lot of the english comes from germanic languages of the Saxons.
  
 In 597, Christianisation in Cantaberry
@@ -93,6 +95,7 @@ The Stuarts (17th cent)
 
 The English Civil War
 	Conflict between the Puritan Parliament and the Anglican King Charles 1st
+	Charles 1st was unpopular because of his religion (protestant) and because he was absolutist
 	Execution of Charles 1st
 	Replaced by the dictator Cromwell (Protestant)
 
@@ -130,3 +133,4 @@ The VIctorian Era (19th cent):
 	the Brits are quite proud of this period
 	relative decline of the UK superiority
 	multi-ethnic nation
+
