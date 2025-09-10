@@ -1,6 +1,6 @@
 [[LA14]] - C2
 ![[LA14-W2 Law and Church.pdf]]
-# the constitution
+# the un-codified constitution
 - Magna Carta
 - Bill of Rights
 - #todo ellaborate on the two above terms
@@ -22,6 +22,8 @@ it is composed of:
 ## absurd laws ?
 - illegal to enter parliament with a suit of armor
 - illegal to handle salmon in suspicious circumstances
+
+## Common Law $\neq$ Civil Law
 
 # The Monarchy
 Thrown : English Chair + Scottish Stone beneath it
@@ -73,4 +75,25 @@ Other Protestants are not included in it (Church of Scotland)
 Friction in the doctrine between the different churches (LGBT, etc...)
 Exclusion of some people from its full rites (limited tolerance)
 
+# Law
+**3 different justice systems (England + Wales, Scotland, Northern Ireland)
 
+in scots law, mix of civil law and common law
+
+Supreme Court of the United Kingdom
+- Highest Court for civil cases and criminal cases (except in Scotland)
+
+## Law Enforcement
+Founded by Robert Peel (1829) to combat the rising crime rate after the Industrial Revolution
+"policing by consent" : the policemen is with you, not against you
+
+45 distinct police forces (local) in England
+
+There are not **armed
+
+Scotland Yard -> London's police force
+
+They have a positive relationship with the citizens ($\neq$ france) 
+Heirloom of the **Frankpledge ?**
+
+However, there are scandals today with the police (Mark Duggan, Sarah Everard, Rapes ...) -> decline in public Trust
