@@ -1,10 +1,6 @@
 [[LA14]] - C2
 ![[LA14-W2 Law and Church.pdf]]
 # the un-codified constitution
-
-[[LA14]] - C2
-![[LA14-W2 Law and Church.pdf]]
-# the un-codified constitution
 - Magna Carta [[England History.md]] : Première charte limitant le pouvoir royal, 1215, base du droit anglais.
 - Bill of Rights : Loi de 1689, fonde la monarchie parlementaire, droits du Parlement et libertés fondamentales.
 - #todo : Ajouter un résumé détaillé de chaque terme dans une note dédiée.
@@ -105,3 +101,7 @@ They have a positive relationship with the citizens ($\neq$ france)
 Heirloom of the **Frankpledge ?**
 
 However, there are scandals today with the police (Mark Duggan, Sarah Everard, Rapes ...) -> decline in public Trust
+
+**Chardon = Thistle**
+**Leek = Wales
+**Flax = lin (Northern Ireland)

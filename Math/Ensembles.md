@@ -116,4 +116,5 @@ $$
 $$
 (A = B) \leftrightarrow (\xi A = \xi B)
 $$ il faut montrer que $\forall x \in E, \xi A(x) = \xi B(x)$
-#todo : Revoir le reste des propositions dans [[MT02-ch1_ecran.pdf]]. Faire l'application avec $(A \cap B) \cap C = A\cap(B\cap C)$ et montrer que $\xi_{A\cap B \cap C} = \xi_{A} \cdot \xi_{B} \cdot \xi_{C}$ en utilisant les propriétés de l'indicatrice.
+Revoir le reste des propositions dans [[MT02-ch1_ecran.pdf]]. 
+*Faire l'application avec $(A \cap B) \cap C = A\cap(B\cap C)$ et montrer que $\xi_{A\cap B \cap C} = \xi_{A} \cdot \xi_{B} \cdot \xi_{C}$ en utilisant les propriétés de l'indicatrice. **fait sur le cahier **
