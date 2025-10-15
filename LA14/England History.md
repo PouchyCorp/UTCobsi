@@ -134,3 +134,13 @@ The VIctorian Era (19th cent):
 	relative decline of the UK superiority
 	multi-ethnic nation
 
+## Today
+
+English Problem ? 
+Medieval Kingdom that conquered all its neighbors 
+
+Being English : 84% of the island's pop -> imbalance that can bring mutual incomprehension
+Barnett Formula : Increased funding to other 3 nations per capita (beneficial to Scotland, Wales, ...)
+The West Lothian question : Other nations can vote at Westminster, but english MP can't vote at devoluted assemblies
+
+The administrative structure of England is getting old & obsolete
